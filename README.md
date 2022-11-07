@@ -18,3 +18,6 @@ Google Colab
 Visual Studio
 
 # *Deployment using Streamlit Steps*
+# *Front-end Output*
+![image](https://user-images.githubusercontent.com/66713603/200264833-a85493c1-5ecd-4be6-ac2c-82a08508f3e0.png)
+

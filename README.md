@@ -18,6 +18,17 @@ Google Colab
 Visual Studio
 
 # *Deployment using Streamlit Steps*
+1. Open VS code 
+2. Install all the necessary libraries
+3. Copy the code provided Of streamlit
+4. Change the address of ".h5 file"
+5. Run the code
+6.Copy the streamlit code shown in output(similar to this :streamlit run C:\Users\Niharika\anaconda3\lib\site-packages\ipykernel_launcher.py)
+7. Paste the code in the terminal 
+8. Now the streamlit code will be open in your browser(Local host)
+9. Now upload image and check accuracy 
+
+
 # *Front-end Output*
 ![image](https://user-images.githubusercontent.com/66713603/200264833-a85493c1-5ecd-4be6-ac2c-82a08508f3e0.png)
 

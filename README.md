@@ -23,7 +23,8 @@ Visual Studio
 3. Copy the code provided Of streamlit
 4. Change the address of ".h5 file"
 5. Run the code
-6.Copy the streamlit code shown in output(similar to this :streamlit run C:\Users\Niharika\anaconda3\lib\site-packages\ipykernel_launcher.py)
+6. Copy the streamlit code shown in output(similar to this :streamlit run C:\Users\Niharika\anaconda3\lib\site-packages\ipykernel_launcher.py)
+
 7. Paste the code in the terminal 
 8. Now the streamlit code will be open in your browser(Local host)
 9. Now upload image and check accuracy 
